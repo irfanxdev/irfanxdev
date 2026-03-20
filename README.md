@@ -43,10 +43,10 @@
 
 
 # 💫 Hi I'm Irfan Ansari : "Let's makes the world digital"
-- A Full Stack Developer skilled in developing wed application using Express.js , React.js and Modern Framework. connecting DataBase with postgress and MongoDb , deploying produnction ready App.
+- A Full Stack Developer skilled in developing wed application using Express.js , React.js and Modern Framework. connecting DataBase with postgress and MongoDb , deploying production ready App.
 
-- I also intrested in Buildin the production ready web application by integrating a Ai.
-  
+- I also intrested in Building the production ready web application by integrating Ai.
+
 
 ```typescript
 const developer = {
